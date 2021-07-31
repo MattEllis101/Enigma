@@ -1,0 +1,7 @@
+QRCKFEGTXSDVMYOZABJHULWINP
+
+Above sequence permutes ten characters
+and leaves six characters unchanged.
+For example, characters "A" and "Q" are 
+being permuted. Character "C" is left 
+unchanged.
